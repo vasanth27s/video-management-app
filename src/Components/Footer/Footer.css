@@ -1,0 +1,39 @@
+.footer-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 50vh;
+    margin-top: 7rem;
+    padding: 6rem 2rem; /* Adjust padding for responsiveness */
+    color: white;
+    background-color: black;
+}
+
+.footer-list {
+    padding: 0;
+    list-style: none;
+    text-align: center; /* Center the list items */
+}
+
+.footer-list h2 {
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.footer-list li {
+    margin: 0.5rem 0; /* Space between list items */
+}
+
+.footer-list p {
+    color: var(--dull-grey);
+    cursor: pointer;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.footer-list p:hover {
+    color: white;
+}
