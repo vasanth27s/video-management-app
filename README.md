@@ -14,10 +14,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Technologies used 
-1. HTML
-2. CSS
-3. JavaScript
-4. React
+
+1. React
 
 - Node JS, Express JS and MongoDb is used for Backend server which is deployed on Vercel.
 
