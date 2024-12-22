@@ -1,6 +1,5 @@
 # This is Full Stack Video Library Project using MERN stack
 
-Live Link - [Videoztron](https://videoztron-dev-branch.netlify.app/)
 
 ## Available Scripts
 
@@ -48,35 +47,3 @@ You may also see any lint errors in the console.
 10. Once the pull request is approved and merged you can pull the changes from upstream to your local repo and delete your extra branch(es).
 11. And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
 
-## You can report issues on this project using Github issue 
-1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-
-## Screenshots
-
-### Home Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-HomePage-1.PNG)
-
-### Video Listing Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-VideoListingPage-1.PNG)
-
-### User Authentication Pages
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-SignupPage-1.PNG)
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-LoginPage-1.PNG)
-
-### Single Video Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-IndividualVideoPage-1.PNG)
-
-### Watch Later Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-WatchLaterPage-1.PNG)
-
-### Liked Videos Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-LikedVideosPage-1.PNG)
-
-### All Playlists Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-AllPlaylistsPage-1.PNG)
-
-### Individual Playlist Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-IndividualPlaylistPage-1.PNG)
-
-### User History Page
-![](https://github.com/Naman-Saxena1/Videoztron-Video_Library/blob/development/src/Assets/Screenshots/Videoztron-UserHistoryPage-1.PNG)
