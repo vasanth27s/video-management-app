@@ -56,7 +56,7 @@ function Navbar() {
         <div className="top-bar">
             <div className="left-topbar-container">
                 <Link to="/">
-                    <h2 className="top-bar-brand-name">Sierra</h2>
+                    <h2 className="top-bar-brand-name">VK Video</h2>
                 </Link>
                 <div className="search-bar">
                     <input className="search-bar-input" placeholder="Search"/>
